@@ -1,0 +1,2 @@
+# aveDataFilterFunction
+average  filter
